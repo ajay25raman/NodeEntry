@@ -28,4 +28,13 @@ app.listen(3000, () => {
 
 /// json.stringify()
 // object to json
+/// APIS
+/// Method
+/// get
+// post
+// delete
+// put
+// patch
+// 5 minutes
+// Express.js
 
